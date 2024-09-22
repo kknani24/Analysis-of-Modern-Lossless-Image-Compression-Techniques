@@ -121,7 +121,7 @@ Contributors are welcome to help with these tasks and suggest new features or im
 
 ## 📜 License
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT]licensed.
 
 ## 🙏 Acknowledgements
 - Python
