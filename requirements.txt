@@ -1,0 +1,22 @@
+# Core Python libraries
+tkinter
+
+# Image processing
+Pillow==9.5.0
+
+# Compression algorithms
+brotli==1.0.9
+zlib==1.2.13
+lzma==0.5.3
+
+# Data visualization
+matplotlib==3.7.1
+
+# Numerical operations
+numpy==1.24.3
+
+# Optional: for advanced image processing (if needed)
+# opencv-python==4.7.0.72
+
+# Optional: for creating GUI (if you decide to extend the project)
+# PyQt5==5.15.9
