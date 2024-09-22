@@ -1,0 +1,2 @@
+# kknani24-Analysis-of-Modern-Lossless-Image-Compression-Techniques
+This study analyzes state-of-the-art lossless image compression techniques: Brotli, Deflate, and LZMA. Each algorithm is implemented to optimize image compression. Findings show that Deflate outperforms the others, achieving an optimal balance between compression ratio, speed, and memory usage, providing valuable insights into performance.
